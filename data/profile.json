@@ -53,12 +53,16 @@
       "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
-      "Organização"
+      "Organização",
+      "Vontade de aprender",
+      "Proatividade",
+      "Comunicação",
+      "Resolução de problemas"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (fluente)"
+    "Inglês B2(fluente)"
   ],
   "portfolio": [
     {
@@ -74,19 +78,21 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Analista de Software Jr / ITPower software ltda.",
+      "period": "Ago 2023 - Mar 2024",
+      "description": "Durante meu período na empresa, fui responsável por criar fluxogramas de mensagens para chatbots utilizando a plataforma Yellow.Ai e React.js. Participei ativamente de reuniões internacionais de negocios e atuei como responsável pela manutenção e aprimoramento contínuo dos chatbots."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analise e Desenvolvimento de Sistemas / Fatec Sp",
+      "period": "Ago 2024 - Jul 2027"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Curso Técnico integrado com o ensino médio / ITB Brasilio Flores de Azevedo",
+      "period": "Feb 2021 - Dez 2023"
+    },
+    {
+      "name": "Curso de Ingles com certificação de Cambridge",
+      "period": "Feb 2017 - Dez 2023"
     }
   ]
 }
