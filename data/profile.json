@@ -72,7 +72,17 @@
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/mmagc/js-developer-portfolio",
+      "github": true
+    },
+    {
+      "name": "Jogo da memoria React Native",
+      "url": "https://github.com/mmagc/Memory-Game-React-Native/tree/main",
+      "github": true
+    },
+    {
+      "name": "Responsive-Login-Page",
+      "url": "https://github.com/mmagc/Responsive-Login-Page",
       "github": true
     }
   ],
