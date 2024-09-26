@@ -84,15 +84,19 @@
     },
     {
       "name": "Analise e Desenvolvimento de Sistemas / Fatec Sp",
-      "period": "Ago 2024 - Jul 2027"
+      "period": "Ago 2024 - Jul 2027",
+      "description": " "
     },
     {
       "name": "Curso Técnico integrado com o ensino médio / ITB Brasilio Flores de Azevedo",
-      "period": "Feb 2021 - Dez 2023"
+      "period": "Feb 2021 - Dez 2023",
+      "description": "Durante o meu curso técnico, desenvolvi com colegas um sistema para personal trainers gerenciarem treinos de alunos. Utilizamos Java e Spring Boot no backend, HTML, CSS e JavaScript no frontend, e SQL Server para o banco de dados. Esse projeto não apenas aprimorou minhas habilidades técnicas em diversas linguagens e frameworks, mas também fortaleceu minha capacidade de trabalhar em equipe, resolver problemas complexos e entregar soluções de alta qualidade dentro de prazos estipulados."
+
     },
     {
       "name": "Curso de Ingles com certificação de Cambridge",
-      "period": "Feb 2017 - Dez 2023"
+      "period": "Feb 2017 - Dez 2023",
+      "description": " "
     }
   ]
 }
